@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KodiakMack
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Open Source / Web 3 Projects
+:computer: Bonjour ! / Hi !
+
+:tada: Most of my repos are private, projects and templates to be rendered public soon ! 
 
 
 <!---
